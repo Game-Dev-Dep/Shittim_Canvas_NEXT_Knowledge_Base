@@ -11,7 +11,7 @@ sidebar_position: 1
 ![Engine](https://img.shields.io/badge/引擎-Unity-black?style=flat-square&logo=unity&logoColor=white)
 ![License](https://img.shields.io/badge/许可证-GPL--3.0-4CAF50?style=flat-square)
 
-*This doc is 100% human-written (Sparse Shadow and/or Japerz, take your pick)—0% AI slop. Read with confidence.*  
+*This doc is 100% human-written (Sparse Shadow and/or Japerz, take your pick) markdown documentations with 0% AI slop. Read with confidence.*  
 *(Yes, the emojis were picked one-by-one in preview. Someone still called it “AI vibes.” This paragraph exists so we can sleep at night.)*
 
 ## 📌 What it is {#what-it-is}
@@ -65,3 +65,7 @@ sidebar_position: 1
 Ping Sparse Shadow if you want in on **Shittim Canvas NEXT** development—we’ll find you something to break… I mean, build.
 
 :::
+
+## 👤 4. 知识库贡献者 {#知识库贡献者}
+
+SparseShadow, Japerz

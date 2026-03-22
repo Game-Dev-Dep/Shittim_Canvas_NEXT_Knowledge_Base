@@ -39,7 +39,8 @@ We welcome corrections, new FAQ entries, screenshots, and translation improvemen
    - **Frozen version** (e.g. 1.0.0): `versioned_docs/version-1.0.0/` for Chinese; keep in sync with your versioning policy.
 3. **Assets:** put images next to the doc that uses them (e.g. `docs/功能总览/img/`) and use relative paths in Markdown.
 4. **Check locally:** `npm run build` — the project is set to **throw** on broken links, so fix any reported broken anchors before opening a PR.
-5. **Pull request:** describe what changed and why; link related issues if any.
+5. **Version Control:** Use `npm run docusaurus docs:version [version]` to auto build a version for the documentation, please follow the naming policy just like the other versions.
+6. **Pull request:** describe what changed and why; link related issues if any.
 
 **Style:** keep tone consistent with existing pages; for screenshots, prefer the same regions/UI as comparable docs. If you only update Chinese, note in the PR whether English should be updated separately.
 
@@ -86,7 +87,8 @@ yarn run start --locale en
    - **已冻结的版本**（如 1.0.0）：中文在 `versioned_docs/version-1.0.0/`，是否修改请遵循项目的版本策略。
 3. **图片：** 放在引用该图的文档旁（例如 `docs/功能总览/img/`），Markdown 里用相对路径引用。
 4. **自检：** 执行 `npm run build`；项目对坏链为 **throw**，请在发起 PR 前修好报错中的链接。
-5. **Pull Request：** 说明修改内容与原因；若有关联 issue 请附上链接。
+5. **版本快照迭代：** 执行`npm run docusaurus docs:version [版本号]` 来自动构建版本号迭代。请务必参考之前的版本命名规范！
+6. **Pull Request：** 说明修改内容与原因；若有关联 issue 请附上链接。
 
 **文风与素材：** 尽量与现有文档语气一致；截图尽量与同类文档的界面区域一致。若只改中文，可在 PR 中说明是否需要另起任务更新英文。
 
