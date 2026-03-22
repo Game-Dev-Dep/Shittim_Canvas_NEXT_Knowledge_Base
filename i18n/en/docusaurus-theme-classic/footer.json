@@ -1,0 +1,30 @@
+{
+  "link.title.文档快捷入口": {
+    "message": "文档快捷入口",
+    "description": "The title of the footer links column with title=文档快捷入口 in the footer"
+  },
+  "link.title.链接": {
+    "message": "链接",
+    "description": "The title of the footer links column with title=链接 in the footer"
+  },
+  "link.title.更多": {
+    "message": "更多",
+    "description": "The title of the footer links column with title=更多 in the footer"
+  },
+  "link.item.label.使用文档": {
+    "message": "使用文档",
+    "description": "The label of footer link with label=使用文档 linking to /docs/intro"
+  },
+  "link.item.label.Shittim Canvas NEXT 官方网站": {
+    "message": "Shittim Canvas NEXT 官方网站",
+    "description": "The label of footer link with label=Shittim Canvas NEXT 官方网站 linking to https://sc.japerz.com"
+  },
+  "link.item.label.浅草疏影[Bilibili]": {
+    "message": "浅草疏影[Bilibili]",
+    "description": "The label of footer link with label=浅草疏影[Bilibili] linking to https://space.bilibili.com/35970397"
+  },
+  "copyright": {
+    "message": "Copyright © 2026 Shittim Canvas NEXT 使用文档",
+    "description": "The footer copyright"
+  }
+}
