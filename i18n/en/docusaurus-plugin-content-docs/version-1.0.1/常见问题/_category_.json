@@ -1,0 +1,8 @@
+{
+  "label": "常见问题",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "了解使用 Shittim Canvas NEXT 的过程中有可能遇到的各种问题"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "version.label": {
+    "message": "1.0.1",
+    "description": "The label for version 1.0.1"
+  },
+  "sidebar.tutorialSidebar.category.功能总览": {
+    "message": "Features Overview",
+    "description": "The label for category 'Features Overview' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.功能总览.link.generated-index.description": {
+    "message": "Learn about the features of Shittim Canvas NEXT",
+    "description": "The generated-index page description for category 'Features Overview' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.软件与角色的更新": {
+    "message": "Software and Character Updates",
+    "description": "The label for category 'Software and Character Updates' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.软件与角色的更新.link.generated-index.description": {
+    "message": "Learn about the software and character updates of Shittim Canvas NEXT",
+    "description": "The generated-index page description for category 'Software and Character Updates' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.常见问题": {
+    "message": "Common Issues",
+    "description": "The label for category 'Common Issues' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.常见问题.link.generated-index.description": {
+    "message": "Learn about the common issues that may be encountered while using Shittim Canvas NEXT",
+    "description": "The generated-index page description for category 'Common Issues' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.关于": {
+    "message": "About",
+    "description": "The label for category 'About' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.关于.link.generated-index.description": {
+    "message": "Learn how to find us and view some disclaimers",
+    "description": "The generated-index page description for category 'About' in sidebar 'tutorialSidebar'"
+  }
+}

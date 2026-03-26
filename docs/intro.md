@@ -4,9 +4,9 @@ sidebar_position: 1
 
 # 欢迎来到 Shittim Canvas NEXT
 
-![](./img/v1.0.0.png)
+![](./img/v1.0.1.png)
 
-![版本](https://img.shields.io/badge/版本-v1.0.0+20260317-4A90D9?style=flat-square)
+![版本](https://img.shields.io/badge/版本-v1.0.1+20260323-4A90D9?style=flat-square)
 ![平台](https://img.shields.io/badge/平台-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![引擎](https://img.shields.io/badge/引擎-Unity-black?style=flat-square&logo=unity&logoColor=white)
 ![许可证](https://img.shields.io/badge/许可证-GPL--3.0-4CAF50?style=flat-square)
@@ -69,4 +69,21 @@ sidebar_position: 1
 
 ## 👤 4. 知识库贡献者 {#知识库贡献者}
 
-Japerz, SparseShadow
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/SparseShadow2024">
+        <img src="https://github.com/SparseShadow2024.png" width="80" style={{ borderRadius: '50%' }} alt="SparseShadow" />
+        <br />
+        <b>Sparse Shadow</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Japerz12138">
+        <img src="https://github.com/Japerz12138.png" width="80" style={{ borderRadius: '50%' }} alt="Japerz" />
+        <br />
+        <b>Japerz</b>
+      </a>
+    </td>
+  </tr>
+</table>
